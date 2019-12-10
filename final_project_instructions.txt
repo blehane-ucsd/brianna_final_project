@@ -1,0 +1,13 @@
+Welcome to my random exercise generator chatbot, FitFinds! This chatbot allows people to generate a randomized workout for themselves based on how long they would like to work out and the type of exercise they are interested in. If they do not understand how to execute exercises, it will direct them to an external link. 
+
+First, type FitFindsChat() to begin the chat
+
+The chatbot will say "Greetings!" Type anything in return
+
+FitFinds will then welcome you and ask you what kind of workout you are interested in doing. Type the category of your choosing. It will generate 5 random exercises from that category.
+
+After you know what kind of exercises you are doing, FitFinds will ask you how long you want to do workout for. By inputing 15, 30 or 45 minutes, FitFinds will generate how many rounds/reps you need to complete.
+
+Finally, FitFinds will ask you if you need any additional instruction on how to execute these exercises. If you need more instruction, type YES; this will lead you to an external link breaking down how to do the movements. If you type NO or QUIT, you will end the chat.
+
+Thank you for using FitFinds!
